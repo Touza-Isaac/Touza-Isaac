@@ -1,8 +1,8 @@
 
-<h3 align="center">I am passionate about mobile development and new technologies. data science students at the University of Maroua, Cameroon. ✨ Open source Enthusiast ✨ ML and Cloud Computing</h3>
+<h3 align="center">I am passionate about mobile development and new technologies. Web Mining and data science students at the University of Maroua, Cameroon.</h3>
 <hr>
 
-# Let's Stay connected <a href="https://twitter.com/touzaisaac" target="blank"><img src="https://img.shields.io/twitter/follow/touzaisaac?logo=twitter&style=for-the-badge" alt="baimamjj" /></a>
+# Let's Stay connected <a href="https://twitter.com/IsaacTouza" target="blank"><img src="https://img.shields.io/twitter/follow/IsaacTouza?logo=twitter&style=for-the-badge" alt="IsaacTouza" /></a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/touzaisaac) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/touzaisaac) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13624989/touza-isaac) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IsaacTouza) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/touza.isaac) 
