@@ -1,5 +1,5 @@
 
-<h3 align="center">I am passionate about mobile development and new technologies. Machine Learning student at the University of Maroua, Cameroon.</h3>
+<h3 align="center">I am passionate about mobile development and new technologies.Researcher in machine learning at the University of Maroua, Cameroon.</h3>
 <hr>
 
 # Let's Stay connected <a href="https://twitter.com/IsaacTouza" target="blank"><img src="https://img.shields.io/twitter/follow/IsaacTouza?logo=twitter&style=for-the-badge" alt="IsaacTouza" /></a>
